@@ -59,8 +59,6 @@ during the micro1 AI Interview.
 
 **Certificate:** [View Certificate](./certificates/micro1-ai-interview.jpg)
 
-**Provider:** [micro1](https://micro1.ai/apply-as-talent)
-
 ---
 
 ## Skills & Technologies
@@ -75,14 +73,6 @@ during the micro1 AI Interview.
 | APIs | REST APIs, HTTP, Postman |
 | Development | Git, GitHub, VS Code, Angular CLI |
 | AI | AI Tools, Claude, AI-assisted development |
-
----
-
-## Professional Profile
-
-- **GitHub:** [Add your GitHub profile]
-- **LinkedIn:** [Add your LinkedIn profile](https://www.linkedin.com/in/wakademahi0210/)
-- **Naukri:** [Add your Naukri profile]
 
 ---
 
